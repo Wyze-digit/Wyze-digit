@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- Wyze-digit's GitHub Profile README -->
 
 <!-- Banner Section -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2dce89,100:1a1a2e&height=220&section=header&text=Hi%20there!%20I'm%20Wyze-digit%20👋&fontSize=42&fontAlignY=40&desc=Backend%20Web%20Development%20|%20Cloud%20Solutions%20Enthusiast&descAlignY=60&fontColor=fff" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2dce89,100:1a1a2e&height=220&section=header&text=Hi%20there!%20I'm%20Wisdom Emmanuel%20👋&fontSize=42&fontAlignY=40&desc=Backend%20Web%20Development%20|%20Cloud%20Solutions%20Enthusiast&descAlignY=60&fontColor=fff" alt="banner"/>
 
 <!-- Intro Section -->
 <h1 align="center">Welcome to my GitHub Profile!</h1>
