@@ -1,8 +1,8 @@
 
 
-''Wyze-digit/Wyze-digit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!-- # Wyze-digit/Wyze-digit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- Wyze-digit's GitHub Profile README -->
+## Wyze-digit's GitHub Profile README 
 
 # 👋 Hi, I'm Ifiok Emmanuel Bassey
 
@@ -95,10 +95,13 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Linux (Basic Administration)  
 
 ---
-<!--             -->
 | Cloud Support                               |    Technical support Tools                                   |
 |---------------------------------------------|--------------------------------------------------------------|
 |MFA Mgt, Cloudwatch, AWS IAM, CloudFormation |ServiceDesk, Remeote Desktop, LAN Tester, Windows Admin Tools |
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wyze-digit&show_icons=true&theme=radical)
+
 ---
 
 ## 📈 Current Focus
@@ -108,6 +111,9 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - DevOps, CI/CD, Terraform, Containerization
 
 ---
+
+## 🎓 Certifications & Learning
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Wyze-digit?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Wyze-digit?style=social)
