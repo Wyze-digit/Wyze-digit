@@ -116,7 +116,8 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - AWS Solutions Architect Associate (2025)
 - AWS Cloud Practitioner (2024)  
 - Continuous learning focus: Infrastructure as Code (Terraform), Advanced Networking, Cloud Security
-- Google Professional IT 
+- Google Professional IT Support
+- to be listed ...
 
 ---
 
