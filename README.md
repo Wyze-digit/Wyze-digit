@@ -96,12 +96,16 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 
 ---
 
-
+<!--             
+| Cloud Support           | Programming           |  Tools          |
+|-------------------------|-----------------------|-----------------|
+| AWS VPC, S3, CloudFront | Python, Django, Flask | Git, Linux, CLI |
+-->
 
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Wyze-digit?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Wyze-digit?style=social)
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
 
 
