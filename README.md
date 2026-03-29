@@ -1,6 +1,7 @@
 
 
 ''Wyze-digit/Wyze-digit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+
 <!-- Wyze-digit's GitHub Profile README -->
 
 # 👋 Hi, I'm Ifiok Emmanuel Bassey
@@ -15,4 +16,64 @@ I specialize in troubleshooting complex technical issues, supporting client-faci
 
 As an aspiring AWS Cloud Support Engineer and Backend Engineer, I actively design and deploy real-world cloud projects, focusing on scalability, security, and operational efficiency. 
 I am committed to continuous learning, hands-on problem solving, and delivering solutions that not only drive business value but also build end-user confidence and ensure a high level of user satisfaction.
+
+## 🧠 Core Skills
+
+### 🔹 I.T Support Technician
+- Hardware & software troubleshooting  
+- OS support (Windows/Linux basics)  
+- Network fundamentals (IP, DNS, DHCP)  
+- System installation & configuration  
+- User account management  
+- Ticketing systems & documentation  
+- Remote desktop support  
+- Windows Server Maintenance support
+
+---
+
+### 🔹 Technical Account Manager
+- Client Relationship management  
+- Technical advisory & solution alignment  
+- SLA management & reporting  
+- Issue escalation handling  
+- Cross-team coordination  
+- Stakeholder communication  
+- Product/Service knowledge translation
+
+---
+
+### 🔹 Customer Support Engineer
+- Technical issue diagnosis & resolution  
+- Application/System support  
+- Incident management  
+- Customer communication & Empathy  
+- Knowledge base documentation  
+- Escalation to engineering teams  
+
+---
+
+### 🔹 AWS Cloud Support Engineer (Junior)
+- AWS core services (EC2, S3, IAM, VPC)  
+- Cloud troubleshooting (connectivity, permissions)  
+- AWS CLI usage  
+- Monitoring (CloudWatch basics)  
+- Security best practices (IAM, MFA)  
+- Basic networking (subnets, routing)  
+- Deployment support  
+
+---
+
+### 🔹 Backend Enthusiast
+- Python programming  
+- API fundamentals (REST APIs)  
+- Database basics (SQL)  
+- Backend frameworks (Django/Flask)  
+- Data structures & logic  
+- Debugging & testing  
+- Version control (Git)
+
+---
+
+
+
 
