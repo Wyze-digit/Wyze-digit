@@ -78,6 +78,8 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Implemented using AWS CLI  
 
 - **Repo:** [aws-vpc-public-subnet-project](https://github.com/your-username/aws-vpc-public-subnet-project)
+
+- **Repo** [Win7 To Win10 Mass upgrade](https://github.com/Wyze-digit/Win7-to-Win10-Enterprise-Upgrade)
 ---
 
 ## 📈 Current Focus
