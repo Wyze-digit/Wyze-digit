@@ -95,17 +95,31 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Linux (Basic Administration)  
 
 ---
+<!--             -->
+| Cloud Support                               |    Technical support Tools                                   |
+|---------------------------------------------|--------------------------------------------------------------|
+|MFA Mgt, Cloudwatch, AWS IAM, CloudFormation |ServiceDesk, Remeote Desktop, LAN Tester, Windows Admin Tools |
+---
 
-<!--             
-| Cloud Support           | Programming           |  Tools          |
-|-------------------------|-----------------------|-----------------|
-| AWS VPC, S3, CloudFront | Python, Django, Flask | Git, Linux, CLI |
--->
+## 📈 Current Focus
+- Deepening AWS networking (VPC, NAT, private subnets)  
+- Infrastructure as Code (Terraform)  
+- Backend development with Python (Django/Flask)
+- DevOps, CI/CD, Terraform, Containerization
 
-
+---
 
 ![GitHub followers](https://img.shields.io/github/followers/Wyze-digit?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Wyze-digit?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
 
+--- 
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ifiok-emmanuel-bassey  
+- Email: ifiokbassey.e@gmail.com
+- GitHub: https://github.com/Wyze-digit  
+
+---
 
