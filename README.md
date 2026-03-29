@@ -28,9 +28,7 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Ticketing systems & documentation  
 - Remote desktop support  
 - Windows Server Maintenance support
-
 ---
-
 ### 🔹 Technical Account Manager
 - Client Relationship management  
 - Technical advisory & solution alignment  
@@ -39,9 +37,7 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Cross-team coordination  
 - Stakeholder communication  
 - Product/Service knowledge translation
-
 ---
-
 ### 🔹 Customer Support Engineer
 - Technical issue diagnosis & resolution  
 - Application/System support  
@@ -49,9 +45,7 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Customer communication & Empathy  
 - Knowledge base documentation  
 - Escalation to engineering teams  
-
 ---
-
 ### 🔹 AWS Cloud Support Engineer (Junior)
 - AWS core services (EC2, S3, IAM, VPC)  
 - Cloud troubleshooting (connectivity, permissions)  
@@ -60,9 +54,7 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Security best practices (IAM, MFA)  
 - Basic networking (subnets, routing)  
 - Deployment support  
-
 ---
-
 ### 🔹 Backend Enthusiast
 - Python programming  
 - API fundamentals (REST APIs)  
@@ -71,9 +63,12 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Data structures & logic  
 - Debugging & testing  
 - Version control (Git)
-
 ---
+## ⚡ Philosophy
 
+> Build. Break. Fix. Document. Repeat.  
+> That’s how real cloud engineers are made.  
+---
 
 
 
