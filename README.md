@@ -68,7 +68,26 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 
 > Build. Break. Fix. Document. Repeat.  
 > That’s how real cloud engineers are made.  
+---   
+
+## 📌 Highlighted Projects
+
+### 🔹 AWS VPC Public Subnet Architecture
+- Designed and deployed a custom VPC with public subnets across multiple AZs  
+- Configured Internet Gateway and route tables for internet access  
+- Implemented using AWS CLI  
+
+👉 Repository: https://github.com/<your-username>/aws-vpc-public-subnet-project  
+
 ---
+
+
+
+
+
+
+![GitHub followers](https://img.shields.io/github/followers/Wyze-digit?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Wyze-digit?style=social)
 
 
 
