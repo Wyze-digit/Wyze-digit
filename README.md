@@ -109,7 +109,5 @@ Add your top repositories below. Example:
 ---
 
 <!-- Template Customization Prompt -->
-> 📝 **Want to make it even more personal?**  
-> Tell me your favorite projects, portfolio links, or fun facts, and I'll tailor this template just for you!
 
 
