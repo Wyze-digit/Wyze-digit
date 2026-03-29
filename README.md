@@ -81,6 +81,19 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 
 ---
 
+## 📈 Current Focus
+- Deepening AWS networking (VPC, NAT, private subnets)  
+- Infrastructure as Code (Terraform)  
+- Backend development with Python (Django/Flask)  
+
+---
+## 🛠️ Tools & Technologies
+- AWS Management Console  
+- AWS CLI  
+- Git & GitHub  
+- Linux (Basic Administration)  
+
+---
 
 
 
