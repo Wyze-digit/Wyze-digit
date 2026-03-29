@@ -77,7 +77,6 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 - Configured Internet Gateway and route tables for internet access  
 - Implemented using AWS CLI  
 
-👉 Repository: https://github.com/<your-username>/aws-vpc-public-subnet-project  
 - **Repo:** [aws-vpc-public-subnet-project](https://github.com/your-username/aws-vpc-public-subnet-project)
 ---
 
