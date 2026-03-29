@@ -113,7 +113,12 @@ I am committed to continuous learning, hands-on problem solving, and delivering 
 ---
 
 ## 🎓 Certifications & Learning
+- AWS Solutions Architect Associate (2025)
+- AWS Cloud Practitioner (2024)  
+- Continuous learning focus: Infrastructure as Code (Terraform), Advanced Networking, Cloud Security
+- Google Professional IT 
 
+---
 
 ![GitHub followers](https://img.shields.io/github/followers/Wyze-digit?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Wyze-digit?style=social)
